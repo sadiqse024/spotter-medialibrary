@@ -5,6 +5,7 @@
         "spotter",
         "laravel-medialibrary-pro"
     ],
+    "version": "1.4.1",
     "homepage": "https://github.com/spotter/laravel-medialibrary-pro",
     "authors": [
         {
